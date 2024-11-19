@@ -1,0 +1,12 @@
+name = "hello_world"
+description = ""
+version = "0.1.0-dev"
+
+authors = ["Lorenzo Rocca"]
+maintainers = ["Lorenzo Rocca <lorenzo.rocca.work@gmail.com>"]
+maintainers-logins = ["LoRy24"]
+licenses = "MIT"
+website = ""
+tags = []
+
+executables = ["hello_world"]
